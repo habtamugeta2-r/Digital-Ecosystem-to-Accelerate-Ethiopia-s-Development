@@ -1,0 +1,106 @@
+category,indicator,value,unit,period,source,grade,notes
+Demography,Population,135500000,people,2026,CSA/UN,A,2nd largest in Africa
+Demography,Rural share,76,percent,2026,World Bank,A,
+Demography,Urban share,24,percent,2026,World Bank,A,
+Economy,GDP nominal,201.4,USD bn,FY2024/25,IMF/NBE rebased,B,Rebased 2025
+Economy,GDP nominal,24.03,ETB tn,FY2024/25,NBE rebasing,B,
+Economy,GDP nominal,31.86,ETB tn,FY2025/26,NBE rebasing,B,Rebased Nov 2026; ~59% upward revision
+Economy,GDP nominal,210.7,USD bn,FY2025/26,NBE rebasing/IWC,B,At ~151 ETB/USD
+Economy,Real GDP growth,9.2,percent,FY2025/26,IMF,B,Draft said 6.5%
+Economy,Inflation,15.3,percent,Jul 2026,NBE/IMF,B,Draft said ~20%
+Economy,Exchange rate,161,ETB per USD,Oct 2026,Market,B,Draft said ~57
+Economy,External debt,28.9,USD bn,2026,MoF,A,
+Economy,FDI,4.32,USD bn,FY2025/26,EIC,B,
+Economy,CPI score,38,index 0-100,2025,Transparency International,A,
+Economy,CPI rank,96,rank of 182,2025,Transparency International,A,Draft said ~99
+Poverty,Poverty rate under 3 USD/day,43,percent,2025,World Bank,B,Draft said 24%
+Poverty,Food insecure,15.5,million people,2026,IPC/WFP,B,
+Poverty,IDPs,3.3,million people,2026,IOM/UNHCR,B,
+Poverty,UHC service coverage index,33,index 0-100,2023,WHO,A,
+Poverty,Literacy rate,52,percent,2024,UNESCO/MoE,B,
+Agriculture,Share of GDP,33.2,percent,FY2024/25,NBE/World Bank,A,Range 31.6-34.9
+Agriculture,Share of employment,60,percent,2025,World Bank,A,
+Agriculture,Smallholder households,13.5,million,2025,CSA/World Bank,A,Range 12-15m
+Agriculture,Cereal production,31.5,million tonnes,2025/26,CSA,B,Range 30-33
+Agriculture,Cereal yield,2632,kg per hectare,2024,World Bank/FAO,B,vs 4000+ potential
+Agriculture,Post-harvest loss cereals,20,percent,2024,MoA/FAO,C,Range 15-25 widely cited; some say 20-30
+Agriculture,Mechanisation index,5.7,percent,2024,MoA/studies,C,
+Agriculture,Teff mechanisation,0.84,percent,2024,Studies,C,
+Agriculture,Primary cooperatives,30000,count,2025,Federal Cooperative Agency,C,Many inactive
+Agriculture,Coffee export value,2.653,USD bn,FY2024/25,ECTA,B,Draft said 1.4
+Agriculture,Coffee dependent households,5,million,2025,ECTA,B,
+Agriculture,Coffee farmgate share of FOB,60,percent,2024,Research,C,Vietnam 92%
+Agriculture,Agricultural credit demand,2.58,ETB tn per year,2025,Industry estimate,C,
+Agriculture,Agricultural credit met,2,percent,2025,Industry estimate,C,Key statistic
+Agriculture,Bank lending to agriculture,8,percent of portfolio,2025,NBE,B,
+Agriculture,MFI lending to agriculture,18,percent of portfolio,2025,NBE,B,
+Agriculture,NAFIR target,881,ETB bn,2030,IFC/NAFIR,B,
+Agriculture,Site-specific fertiliser yield gain,19,percent,trials,CGIAR/AICCRA,B,Range 14-25 wheat
+Agriculture,Index insurance food insecurity effect,-9.44,percent,2024,UNDP study,B,
+Digital,Internet users,29.5,million,Jan 2026,DataReportal,B,Draft said 43m
+Digital,Internet penetration,21.7,percent,Jan 2026,DataReportal,B,Draft said 34%
+Digital,Cellular connections,93.2,million,2026,DataReportal,B,
+Digital,Mobile ownership adults,58,percent,2025,GSMA/Findex,B,
+Digital,Rural internet use,9,percent,2025,GSMA,C,
+Digital,4G population coverage,82.23,percent,2026,Ethio Telecom,B,
+Digital,5G sites,340,count,2026,Ethio Telecom,B,
+Digital,Safaricom coverage,59.2,percent,2026,Safaricom,B,
+Digital,Electricity any access,65,percent,2023,World Bank/ESMAP,A,Draft said 50%
+Digital,Electricity Tier 1 plus,44,percent,2023,ESMAP,A,
+Digital,Electricity grid access,29.3,percent,2023,ESMAP,A,
+Identity,Fayda registrations,53.4,million,Oct 2026,NIDP,B,Draft said 37m
+Identity,Fayda registration rate,200000,per day,2026,NIDP,B,
+Identity,Fayda relying parties,150,count,2026,NIDP,B,
+Identity,Fayda verification price low,0.05,USD per verification,Aug 2026,NIDP,B,
+Identity,Fayda verification price high,0.10,USD per verification,Aug 2026,NIDP,B,
+Identity,Fayda lowest regional coverage,28300,registrations,2026,NIDP,C,Gambella
+Payments,telebirr registered users,60.59,million,2026,Ethio Telecom,B,Draft said 21.8m
+Payments,telebirr agents,320000,count,2026,Ethio Telecom,B,
+Payments,telebirr merchants,310000,count,2026,Ethio Telecom,B,
+Payments,telebirr micro-loans,13.22,ETB bn,2026,Ethio Telecom,B,To 6.88m borrowers
+Payments,M-Pesa Ethiopia active users,5.2,million,Oct 2026,Safaricom,B,
+Payments,M-Pesa Ethiopia merchants,30700,count,2026,Safaricom,B,
+Payments,EthioPay P2P transactions,1000000,per day,2026,Shega,C,
+Payments,Account ownership adults,49,percent,2025,Global Findex,A,Draft said 35%
+Payments,Digital payment last 12 months,21,percent,2025,Global Findex,A,
+Payments,Account ownership men,57,percent,2025,Global Findex,A,
+Payments,Account ownership women,42,percent,2025,Global Findex,A,
+Payments,NDPS transactions per adult baseline,54,count,2026,NBE,A,
+Payments,NDPS transactions per adult target,275,count,2030,NBE,A,
+Payments,NDPS G2P digital target,80,percent,2030,NBE,A,
+Payments,NDPS smartphone target,70,percent,2030,NBE,A,
+Infrastructure,Road network,171176,km,2025,ERA,A,
+Infrastructure,Paved road share,13,percent,2025,ERA,A,
+Infrastructure,Djibouti corridor share of trade,92,percent,2025,Trade studies,B,Range 90-95
+Infrastructure,Truck freight cost,3555,USD per FEU,2025,Studies,C,
+Infrastructure,Rail freight cost,2462,USD per FEU,2025,Studies,C,
+Conflict,Physical damage from Tigray war,22.7,USD bn,2023,World Bank,A,
+Conflict,Projected GDP loss by 2027,125,USD bn,2026,Oxford Economics,B,
+Conflict,FY27 growth forecast,7,percent,2026,Fitch,B,
+Kenya,M-Pesa active users,40.99,million,2026,Safaricom,A,
+Kenya,M-Pesa annual transaction value,41.68,KSh tn,2025,Central Bank of Kenya,A,2.4x GDP
+Kenya,M-Pesa agents,333000,count,2025,Central Bank of Kenya,A,
+Kenya,M-Pesa free transactions share,57.8,percent,2025,Central Bank of Kenya,A,
+Kenya,M-Pesa poverty effect,2,percent of households,2016,Suri and Jack Science,A,
+India,Aadhaar enrolled,1.4,billion,2026,UIDAI,A,
+India,UPI monthly transactions,21.7,billion,Jan 2026,NPCI,A,
+India,Account Aggregator linked accounts,2.61,billion,2026,Sahamati,B,
+India,DBT cumulative savings low,3.48,lakh crore INR,cumulative,Government of India,B,
+India,DBT cumulative savings high,5.14,lakh crore INR,cumulative,Government of India,B,
+Rwanda,Irembo services,240,count,2025,Government of Rwanda,A,
+Rwanda,Irembo agents,3000,count,2025,Government of Rwanda,A,
+Rwanda,Irembo applications,5,million,2025,Government of Rwanda,A,
+Rwanda,Irembo digital payment share,45,percent,2025,World Bank,B,
+Rwanda,Irembo time saved,80,percent,2025,World Bank,B,
+Estonia,X-Road launch year,2001,year,,e-Estonia,A,
+Estonia,GDP saved by digital government,2,percent,2024,e-Estonia,B,
+Market,Jumia operating loss,73,USD m,2023,Jumia annual report,A,
+Market,Jumia core markets,9,count,2025,Jumia annual report,A,
+Market,Ethiopian e-commerce platforms under 10k USD revenue,58,percent,2025,Shega/JICA,B,
+Market,Ethiopian startups under 20k USD revenue,70,percent,2025,Shega/JICA,B,
+Projection,Platform GMV base case year 5,40,ETB bn,2031,Author model,D,
+Projection,Platform revenue base case year 5,986,ETB m,2031,Author model,D,
+Projection,Peak funding requirement,81,ETB m,2029,Author model,D,
+Projection,Recommended raise,200,ETB m,2027,Author model,D,
+Projection,Expected year 7 enterprise value low,6,ETB bn,2032,Author model,D,
+Projection,Expected year 7 enterprise value high,9,ETB bn,2032,Author model,D,
